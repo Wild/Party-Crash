@@ -57,6 +57,7 @@
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\FollowTransform.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\IceMovement.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\Joystick.js" />
+     <Compile Include="Assets\Standard Assets (Mobile)\Scripts\MainMenu.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\ObliqueNear.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\PlayerRelativeControl.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\RespawnController.js" />
