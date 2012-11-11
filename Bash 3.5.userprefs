@@ -1,15 +1,12 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets (Mobile)/Scripts/Rotation.js">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets (Mobile)/Scripts/ActionButton.js">
     <Files>
-      <File FileName="Assets/Standard Assets (Mobile)/Scripts/Joystick.js" Line="1" Column="1" />
-      <File FileName="Assets/Standard Assets (Mobile)/Scripts/ActionButton.js" Line="1" Column="1" />
-      <File FileName="Assets/Standard Assets (Mobile)/Scripts/CameraRelativeControl.js" Line="1" Column="1" />
-      <File FileName="Assets/Standard Assets (Mobile)/Scripts/IceMovement.js" Line="1" Column="1" />
-      <File FileName="Assets/Standard Assets (Mobile)/Scripts/CameraToggle.js" Line="1" Column="1" />
-      <File FileName="Assets/Standard Assets (Mobile)/Scripts/Rotation.js" Line="23" Column="1" />
-      <File FileName="Assets/Standard Assets (Mobile)/Scripts/Config.js" Line="10" Column="3" />
-      <File FileName="Assets/Standard Assets (Mobile)/Scripts/StormEffect.js" Line="15" Column="29" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/StormEffect.js" Line="27" Column="20" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/CloudsManipulating.js" Line="15" Column="1" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/Config.js" Line="45" Column="57" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/CameraRelativeControl.js" Line="19" Column="1" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/ActionButton.js" Line="6" Column="31" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>

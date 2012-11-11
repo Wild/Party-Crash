@@ -49,6 +49,7 @@
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\ActionButton.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\CameraRelativeControl.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\CameraToggle.js" />
+     <Compile Include="Assets\Standard Assets (Mobile)\Scripts\CatastropheInterface.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\CloudsManipulating.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\CollisionDetection.js" />
      <Compile Include="Assets\Standard Assets (Mobile)\Scripts\Config.js" />
