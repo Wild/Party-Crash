@@ -1,6 +1,17 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Standard Assets (Mobile)/Scripts/Rotation.js">
+    <Files>
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/Joystick.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/ActionButton.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/CameraRelativeControl.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/IceMovement.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/CameraToggle.js" Line="1" Column="1" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/Rotation.js" Line="23" Column="1" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/Config.js" Line="10" Column="3" />
+      <File FileName="Assets/Standard Assets (Mobile)/Scripts/StormEffect.js" Line="15" Column="29" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>

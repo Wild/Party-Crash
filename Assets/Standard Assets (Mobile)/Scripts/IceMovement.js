@@ -33,6 +33,7 @@ private var players : Array;
 private var playersHit : Array;
 
 function Start () {
+
 	var playersGameObjects = GameObject.FindGameObjectsWithTag("Player");
 	var length = playersGameObjects.Length;
 	players = new Array();

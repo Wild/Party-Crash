@@ -3,6 +3,10 @@ Microsoft Visual Studio Solution File, Format Version 11.00
 
 Project("{8197CA4A-2B91-213A-7876-F7C19F886E25}") = "Bash 3.5", "Assembly-CSharp-firstpass.csproj", "{E3541CA2-FB96-5218-8892-889FE71F5F52}"
 EndProject
+Project("{8197CA4A-2B91-213A-7876-F7C19F886E25}") = "Bash 3.5", "Assembly-CSharp.csproj", "{620CC91B-1B7C-3256-C55A-21334C9B1E01}"
+EndProject
+Project("{8197CA4A-2B91-213A-7876-F7C19F886E25}") = "Bash 3.5", "Assembly-CSharp-Editor-firstpass.csproj", "{988C7401-4703-E2FC-906E-F83F01C978A8}"
+EndProject
 Project("{8197CA4A-2B91-213A-7876-F7C19F886E25}") = "Bash 3.5", "Assembly-UnityScript-firstpass.unityproj", "{3FE717F9-47C7-4C5C-9276-C2E7723DE853}"
 EndProject
 Project("{8197CA4A-2B91-213A-7876-F7C19F886E25}") = "Bash 3.5", "Assembly-UnityScript.unityproj", "{35849EC4-881E-21C7-6E39-F2D3770ECDDE}"
@@ -17,6 +21,14 @@ Global
 		{E3541CA2-FB96-5218-8892-889FE71F5F52}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E3541CA2-FB96-5218-8892-889FE71F5F52}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E3541CA2-FB96-5218-8892-889FE71F5F52}.Release|Any CPU.Build.0 = Release|Any CPU
+		{620CC91B-1B7C-3256-C55A-21334C9B1E01}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{620CC91B-1B7C-3256-C55A-21334C9B1E01}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{620CC91B-1B7C-3256-C55A-21334C9B1E01}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{620CC91B-1B7C-3256-C55A-21334C9B1E01}.Release|Any CPU.Build.0 = Release|Any CPU
+		{988C7401-4703-E2FC-906E-F83F01C978A8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{988C7401-4703-E2FC-906E-F83F01C978A8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{988C7401-4703-E2FC-906E-F83F01C978A8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{988C7401-4703-E2FC-906E-F83F01C978A8}.Release|Any CPU.Build.0 = Release|Any CPU
 		{3FE717F9-47C7-4C5C-9276-C2E7723DE853}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{3FE717F9-47C7-4C5C-9276-C2E7723DE853}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3FE717F9-47C7-4C5C-9276-C2E7723DE853}.Release|Any CPU.ActiveCfg = Release|Any CPU
@@ -29,7 +41,7 @@ Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
-											GlobalSection(MonoDevelopProperties) = preSolution
+																							GlobalSection(MonoDevelopProperties) = preSolution
 		StartupItem = Assembly-CSharp.csproj
 		Policies = $0
 		$0.TextStylePolicy = $1

@@ -44,22 +44,56 @@
 	</Reference>
   </ItemGroup>
   <ItemGroup>
-     <Compile Include="Assets\skydome\Sun.cs" />
-     <Compile Include="Assets\skydome\skydomeScript2.cs" />
+     <Compile Include="Assets\Cloud System Demos\Scripts\Camera\CameraButtons.cs" />
+     <Compile Include="Assets\Cloud System Demos\Scripts\Camera\CameraFlyer.cs" />
+     <Compile Include="Assets\Cloud System Demos\Scripts\Camera\CameraRotator.cs" />
+     <Compile Include="Assets\Cloud System Demos\Scripts\Camera\CameraSwitcher.cs" />
+     <Compile Include="Assets\Cloud System Demos\Scripts\DestroyOnFinish.cs" />
+     <Compile Include="Assets\Cloud System Demos\Scripts\Effects\ChangeTint.cs" />
+     <Compile Include="Assets\Cloud System Demos\Scripts\Effects\GoodEvil.cs" />
+     <Compile Include="Assets\Cloud System Demos\Scripts\Effects\MoveShadingGroupCenter.cs" />
+     <Compile Include="Assets\Cloud System Demos\Scripts\Effects\Rotate.cs" />
+     <Compile Include="Assets\Cloud System Demos\Scripts\LightningCreator.cs" />
+     <Compile Include="Assets\Cloud System Demos\Scripts\ShowFPS.cs" />
+     <Compile Include="Assets\Cloud System Demos\Scripts\SoundPlayer.cs" />
+     <Compile Include="Assets\Electricity\Scripts\LightningBolt.cs" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Multiply Culled.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Background.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Transparent Vertex Color.shader" />
+     <None Include="Assets\Cloud System Demos\Assets\GUI\Fonts\Ubunto Font Family\TRADEMARKS.txt" />
+     <None Include="Assets\Cloud System Demos\Assets\GUI\Fonts\Ubunto Font Family\FONTLOG.txt" />
+     <None Include="Assets\Plugins\Cloud System\Resources\Shaders\MobileLightningCloudShader.shader" />
+     <None Include="Assets\Cloud System Demos\Assets\GUI\Fonts\Ubunto Font Family\README.txt" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Miscellaneous Shaders\Mobile Detail.shader" />
      <None Include="Assets\Standard Assets\Particles\Sources\Shaders\Particle Alpha Blend (Queue +100).shader" />
+     <None Include="Assets\Cloud System Demos\Assets\GUI\Fonts\Ubunto Font Family\CONTRIBUTING.txt" />
+     <None Include="Assets\Plugins\Cloud System\Resources\Shaders\MobileCloudLightingModel.cginc" />
      <None Include="Assets\Custom Textures\ActionShader.shader" />
+     <None Include="Assets\Plugins\Cloud System\CloudSystemFree.Runtime.xml" />
+     <None Include="Assets\Plugins\Cloud System\Resources\Shaders\LightningCloudShader.shader" />
+     <None Include="Assets\Plugins\Cloud System\Resources\Shaders\CloudLightingModel.cginc" />
+     <None Include="Assets\Cloud System Demos\Assets\GUI\Fonts\Ubunto Font Family\LICENCE-FAQ.txt" />
+     <None Include="Assets\Plugins\Cloud System\Resources\Shaders\CloudShader.shader" />
+     <None Include="Assets\Standard Assets\Water (Basic)\Sources\Shaders\FX-Water Simple.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Reflective.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Particle Shaders\Mobile Particles Additive Culled.shader" />
+     <None Include="Assets\Plugins\Cloud System\Release Notes.txt" />
+     <None Include="Assets\Plugins\Cloud System\Resources\Shaders\SoftCloudShader.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Vertex Colored Shaders\Mobile Vertex Colored.shader" />
+     <None Include="Assets\Electricity\Shaders\lightning.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap Only.shader" />
      <None Include="Assets\Standard Assets (Mobile)\Shaders\Lightmap Shaders (Legacy)\Mobile Lightmap AlphaTest.shader" />
-     <None Include="Assets\skydome\aScattering2.0.shader" />
+     <None Include="Assets\Cloud System Demos\Assets\GUI\Fonts\Ubunto Font Family\copyright.txt" />
+     <None Include="Assets\Plugins\Cloud System\Readme.txt" />
+     <None Include="Assets\Cloud System Demos\Assets\GUI\Fonts\Ubunto Font Family\LICENCE.txt" />
+     <None Include="Assets\Cloud System Demos\Assets\Sounds\Source.txt" />
+ <Reference Include="Assets\Plugins\Cloud System\CloudSystemFree.Runtime">
+ <HintPath>Assets\Plugins\Cloud System\CloudSystemFree.Runtime.dll</HintPath>
+ </Reference>
   </ItemGroup>
   <ItemGroup>
+    <ProjectReference Include="Assembly-CSharp-firstpass.csproj">
+      <Project>{E3541CA2-FB96-5218-8892-889FE71F5F52}</Project>      <Name>Assembly-CSharp-firstpass</Name>    </ProjectReference>
     <ProjectReference Include="Assembly-UnityScript-firstpass.unityproj">
       <Project>{3FE717F9-47C7-4C5C-9276-C2E7723DE853}</Project>      <Name>Assembly-UnityScript-firstpass</Name>    </ProjectReference>
   </ItemGroup>
